@@ -2,4 +2,9 @@
 
 <b>YouTube Video Downloader</b>
 
-A `Python console-app` that will `download YouTube Videos` given `links` in the desired directory.
+# Release v1.0
+- A console app to download YouTube Videos made with Python.
+- Enjoy YouTube Offline and share your favorite Videos from YouTube as Stories, Status, Posts...etc., in Social Media!
+
+Developed by,
+`Ashwin Narayanan S`.
