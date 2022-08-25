@@ -2,6 +2,7 @@ from pytube import YouTube
 import tkinter
 from tkinter import filedialog
 import os
+import time
 
 flag = 1
 
@@ -48,3 +49,4 @@ while(flag == 1):
         flag = 0
 
 print("\nThank you For Using Youtube Downloader\nA Product Developed by Ashwin Narayanan S")
+time.sleep(4)
