@@ -7,7 +7,7 @@
 - Minor Performance Fix
 - Added a logo.
 
-# Release v1.0
+## Release v1.0
 
 - A console app to download YouTube Videos made with Python.
 - Enjoy YouTube Offline and share your favorite Videos from YouTube as Stories, Status, Posts...etc., in Social Media!
