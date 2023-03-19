@@ -5,6 +5,7 @@
 ## Release v2.0
 
 - Major Bug and performance fixes
+- Unstable
 
 ## Release v1.1
 
